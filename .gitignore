@@ -21,7 +21,3 @@ buildNumber.properties
 .settings/
 .project
 bin/
-
-# System related
-*.DS_Store
-Thumbs.db
